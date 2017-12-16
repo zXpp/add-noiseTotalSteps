@@ -1,0 +1,3 @@
+-32.783
+
+Total time used: 3152.7 seconds
